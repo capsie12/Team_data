@@ -1,0 +1,12 @@
+{
+    "nozzle": {
+        "mass": 3,
+        "position": 2.5,
+        "description": "nozzle structure"
+    },
+    "engine": {
+        "mass": 4,
+        "position": 2.35,
+        "description": "Updated engine with higher thrust"
+    }
+}
