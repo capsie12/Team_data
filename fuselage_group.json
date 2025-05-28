@@ -4,19 +4,19 @@
         "position": 2.4,
         "description": "oxidant fuselage"
     },
-    "fuselage_fuel": {
-        "mass": 20,
-        "position": 1.6,
-        "description": "fuel fuselage"
-    },
     "propellant": {
         "mass": 307.5,
         "position": 1.9,
         "description": "propellant from fuel and oxidator together"
     },
-    "helium tank": {
+    "helium_tank": {
         "mass": 50.58,
-        "position": 1.6,
+        "position": 1.4,
         "description": "helium tank"
     }
+    "combustion_chamber": {
+        "mass": 66.70,
+        "position": 2.4,
+        "description": "combustion chamber"
+    },
 }
