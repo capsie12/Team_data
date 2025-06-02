@@ -13,10 +13,10 @@
         "mass": 50.58,
         "position": 1.4,
         "description": "helium tank"
-    }
+    },
     "combustion_chamber": {
         "mass": 66.70,
         "position": 2.4,
         "description": "combustion chamber"
-    },
+    }
 }
