@@ -1,6 +1,6 @@
 {
     "nozzle": {
-        "mass": 3,
+        "mass": 7.778,
         "position": 2.5,
         "description": "nozzle structure"
     },
